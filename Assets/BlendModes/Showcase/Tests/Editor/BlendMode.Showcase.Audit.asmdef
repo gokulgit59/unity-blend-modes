@@ -1,0 +1,22 @@
+{
+    "name": "BlendMode.Showcase.Audit",
+    "rootNamespace": "BlendMode.Showcase.Audit",
+    "references": [
+        "BlendMode",
+        "BlendMode.Gallery",
+        "BlendMode.Showcase",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
